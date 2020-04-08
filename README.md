@@ -1,2 +1,2 @@
 # cloud-functions
-GCP certification testing repo
+GCP professional developer certification testing repo
